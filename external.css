@@ -5,7 +5,8 @@ img {
 
 body {
     display:grid;
-    grid-template: 10% / 50%;
+    grid-template: 5% / 50%;
+    justify-content: center;
 }
 
 form {

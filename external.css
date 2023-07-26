@@ -1,4 +1,16 @@
 img {
     width: 60vh;
-    height: 80vh;  
+    height: 80vh;
 }
+
+body {
+    display:grid;
+}
+
+form {
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 2rem;
+    border-radius: 10px;
+}
+

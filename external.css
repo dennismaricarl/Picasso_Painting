@@ -30,6 +30,11 @@ label {
     text-align: center;
 }
 
+p {
+    text-align:center;
+    margin: auto;
+}
+
 input[type="submit"] {
     color:white;
     background-color: darkmagenta;

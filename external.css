@@ -14,8 +14,19 @@ form {
     border-radius: 10px;
 }
 
-#submit_button {
+#Contact_Form {
+    font-family: Georgia;
+    font-size: 21px;
+}
+
+input[type="submit"] {
     color:white;
     background-color: darkmagenta;
+}
+
+input[type="submit"]:hover {
+    cursor:grab;
+    background-color:chocolate;
+
 }
 

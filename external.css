@@ -5,6 +5,7 @@ img {
 
 body {
     display:grid;
+    grid-template: 10% / 50%;
 }
 
 form {
@@ -16,7 +17,8 @@ form {
 
 #Contact_Form {
     font-family: Georgia;
-    font-size: 21px;
+    font-size: 20px;
+    text-align: center;
 }
 
 input[type="submit"] {

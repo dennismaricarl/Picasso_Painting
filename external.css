@@ -43,7 +43,7 @@ input[type="submit"]:hover {
 }
 
 /* iPad */
-@media (max-width:104px) {
+@media (max-width:1024px) {
     body {
         margin: 0 auto;
         padding: 0;

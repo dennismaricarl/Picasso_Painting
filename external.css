@@ -14,3 +14,8 @@ form {
     border-radius: 10px;
 }
 
+#submit_button {
+    color:white;
+    background-color: darkmagenta;
+}
+

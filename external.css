@@ -9,6 +9,7 @@ body {
     display:grid;
     grid-template: 5% / 50%;
     justify-content: center;
+    background-color: lightblue;
 }
 
 form {
@@ -17,6 +18,10 @@ form {
     padding: 2rem;
     border-radius: 10px;
     z-index: 1; 
+}
+
+label {
+    font: 18px monospace;
 }
 
 #Contact_Form {

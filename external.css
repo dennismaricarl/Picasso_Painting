@@ -2,6 +2,7 @@ img {
     width: 60vh;
     height: 80vh;
     padding: 50px;
+    z-index: auto;
 }
 
 body {
@@ -15,6 +16,7 @@ form {
     margin: 1rem;
     padding: 2rem;
     border-radius: 10px;
+    z-index: 1; 
 }
 
 #Contact_Form {

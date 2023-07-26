@@ -34,3 +34,27 @@ input[type="submit"]:hover {
 
 }
 
+/* mobile */
+@media (max-width:480px) {
+    body {
+        margin: 0 auto;
+        padding: 0;
+    }
+}
+
+/* iPad */
+@media (max-width:104px) {
+    body {
+        margin: 0 auto;
+        padding: 0;
+    }
+}
+
+/* desktop */
+@media  screen and (max-width: 1680px) {
+    body {
+        margin: 0 auto;
+        padding: 0;
+    }
+}
+
